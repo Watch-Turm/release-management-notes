@@ -1,7 +1,6 @@
-# release-management-notes
+# Release management notes
 Practical notes on release management, environment drift, and deployment visibility in complex systems.
 
-# Release management notes
 
 This repository collects practical notes, patterns, and observations related to
 release management in multi-repository and microservice-based systems.
